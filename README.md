@@ -1,0 +1,1 @@
+# qgis_plugin_geometry_builder_for_nia
