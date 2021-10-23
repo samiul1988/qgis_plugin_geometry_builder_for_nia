@@ -1,0 +1,8 @@
+[PROCESSING]
+C:\Program Files\QGIS 3.4\apps\qgis-ltr\python\plugins
+[OGR2OGR]
+C:\Program Files\QGIS 2.18\bin\ogr2ogr.exe
+[Arcv2CAD5]
+G:\Internal - Computer\Arcv2CAD5
+[DATA_DIR]
+L:\GIS Database\AB\DataForQgisPlugin
